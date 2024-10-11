@@ -15,7 +15,7 @@ Créez autant de comptes Facebook que vous le souhaitez et confirmez-les automat
 
 ✔️ générateur de compte Facebook
 
-✔️ agent d'assistance
+✔️ prise en charge de l'utilisation d'un proxy
 
 ✔️ API mobile
 
